@@ -5,5 +5,6 @@ package com.zdc.service;
  */
 public interface ServiceC {
      int a=10;
+    String name="abc";
     public  String getStr(String str);
 }
