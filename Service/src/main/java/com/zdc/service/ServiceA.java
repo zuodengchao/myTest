@@ -5,5 +5,5 @@ package com.zdc.service;
  */
 public interface ServiceA {
      String getStrA(String str);
-      String getServiceB();;
+      String getServiceB();
 }
