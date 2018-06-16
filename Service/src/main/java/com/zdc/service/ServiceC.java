@@ -10,5 +10,6 @@ public interface ServiceC {
     String cd="abcdef";
     String def="opq";
     String ty="abcdef";
+    String aaaaa="aaa";
     public  String getStr(String str);
 }
