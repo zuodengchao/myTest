@@ -7,5 +7,6 @@ public interface ServiceC {
      int age=10;
     String name="abc";
     String abc="opq";
+    String abc="abcdef";
     public  String getStr(String str);
 }
