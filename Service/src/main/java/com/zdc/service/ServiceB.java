@@ -11,6 +11,7 @@ public interface ServiceB {
      */
     String name="zuodengchao";
 //    Integer a;
+     String abc="defsfsfadsfa";
     public String getStrB(String str);
     public  String getSerivceC(String str);
 }
