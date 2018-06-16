@@ -8,5 +8,7 @@ public interface ServiceC {
     String name="abc";
     String nnn="opq";
     String cd="abcdef";
+    String def="opq";
+    String ty="abcdef";
     public  String getStr(String str);
 }
