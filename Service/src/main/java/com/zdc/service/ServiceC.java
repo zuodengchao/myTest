@@ -6,5 +6,6 @@ package com.zdc.service;
 public interface ServiceC {
      int age=10;
     String name="abc";
+     String abc="b";
     public  String getStr(String str);
 }
