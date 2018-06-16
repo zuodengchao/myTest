@@ -7,5 +7,4 @@ public interface ServiceA {
      String getStrA(String str);
       String getServiceB();
     String abc="defsfsfadsfa";
-      String abc="defsfsfadsfa";
 }
