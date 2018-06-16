@@ -10,7 +10,7 @@ public interface ServiceB {
      *   2. 接口中的方法相当于 abstract
      */
     String name="zuodengchao";
-
+//    Integer a;
     public String getStrB(String str);
     public  String getSerivceC(String str);
 }
